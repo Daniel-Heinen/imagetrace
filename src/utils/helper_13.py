@@ -39,3 +39,4 @@ class GeoHelper13:
             "altitude": data.get("GPSAltitude")
         }
 # Modified 2024-03-20
+# Modified 2024-07-22
