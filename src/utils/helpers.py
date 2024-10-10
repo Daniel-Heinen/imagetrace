@@ -3,3 +3,4 @@ def validate_coordinates(lat, lng):
     return -90 <= lat <= 90 and -180 <= lng <= 180
 # Modified 2024-02-05
 # Modified 2024-07-15
+# Modified 2024-10-10
